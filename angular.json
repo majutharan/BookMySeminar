@@ -21,11 +21,19 @@
             "assets": [
               "src/favicon.ico",
               "src/assets"
+
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/css/animate.css",
+              "src/css/bootstrap.css",
+              "src/css/bootstrap-theme.css",
+              "src/css/font-awesome.css",
+              "src/css/style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/home/majutharan/Documents/BookMySeminar/node_modules/wowjs/dist/wow.min.js"
+            ]
           },
           "configurations": {
             "production": {
